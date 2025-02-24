@@ -37,4 +37,5 @@ Open main.ipynb in Jupyter Notebook or VS Code and execute the cells to train an
 ## 📌 Results
 The model provides accurate electricity consumption predictions based on historical data, helping to enhance energy efficiency in steel manufacturing.
 ## 🔗 Repository
-GitHub: Predicted Energy Consumption in Steel
+GitHub: [Predicted Energy Consumption in Steel](https://github.com/HoangNguyen181004/Predicted-energy-consumption)
+
