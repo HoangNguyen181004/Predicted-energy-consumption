@@ -16,13 +16,13 @@ This project focuses on predicting electricity consumption in the steel industry
 ## 📂 Project Structure  
 📁 Predicted-Energy-Consumption
 
-├── 📂 data # Dataset used for training and evaluation
+  ├── 📂 data # Dataset used for training and evaluation
 
-├── 📂 notebooks # Jupyter notebooks with model implementation
+  ├── 📂 notebooks # Jupyter notebooks with model implementation
 
-├── 📜 main.ipynb # Main notebook with the full workflow
+  ├── 📜 main.ipynb # Main notebook with the full workflow
 
-├── 📜 README.md # Project documentation
+  ├── 📜 README.md # Project documentation
 
 ## 🚀 Getting Started  
 ### 1️⃣ Install Dependencies  
