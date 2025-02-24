@@ -15,9 +15,13 @@ This project focuses on predicting electricity consumption in the steel industry
 
 ## 📂 Project Structure  
 📁 Predicted-Energy-Consumption
+
 ├── 📂 data # Dataset used for training and evaluation
+
 ├── 📂 notebooks # Jupyter notebooks with model implementation
+
 ├── 📜 main.ipynb # Main notebook with the full workflow
+
 ├── 📜 README.md # Project documentation
 
 ## 🚀 Getting Started  
@@ -25,6 +29,7 @@ This project focuses on predicting electricity consumption in the steel industry
 Ensure you have Python installed, then run:  
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+```
 
 ### 2️⃣ Run the Model
 Open main.ipynb in Jupyter Notebook or VS Code and execute the cells to train and evaluate the model.
